@@ -1,5 +1,3 @@
-### To run type python LongBottom.py ###
-
 import pickle
 
 # Used for opening the string
