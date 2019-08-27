@@ -18,7 +18,7 @@ def extractFile(zname):
         
        
     except:
-        print "Did the script fail or has it completed?" # Incase the script fails due to wrong
+        print "The script has either failed or completed"
         print "The last file that was unzipped was " + zname
     
         
